@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns="http://tizen.org/ns/packages" package="org.example.minimalistwatch" api-version="2.3.1" version="1.1.1">
+	<profile name="wearable" />
+	<watch-application appid="org.example.minimalistwatch" exec="minimalistwatch" ambient-support="true">
+		<label>minimalistwatch</label>
+		<icon>minimalistwatch.png</icon>
+	</watch-application>
+</manifest>
